@@ -4,4 +4,4 @@ NPM: 2306256255
 
 Class: PBP KKI
 
-esquiador
+Hobby: Playing video games
